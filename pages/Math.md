@@ -17,15 +17,18 @@
 		- Sources
 			- Typology
 				- Authoritative
-					- Textbooks
-					- Papers
-					- Monographs
-					- Journals
-					- Conferences
-					- Lectures
-					- College Department
-					- Research Outfits
-					- Individual Mathematician programs
+					- Textual
+						- Textbooks
+						- Papers
+						- Monographs
+						- Journals
+					- Lectoral
+						- Conferences
+						- Lectures
+						- College Department
+						- Research Outfits
+						- Individual Mathematician Programs
+					- Schools of Thought Programs
 				- Expository/Encyclopedia
 				- Social
 					- Forums
