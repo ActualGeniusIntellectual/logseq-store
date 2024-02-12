@@ -13,4 +13,6 @@
 	- **[[Plato]]**
 - "A mathematician is a device for turning coffee into theorems."
 	- **Paul Erdos**
--
+- "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."
+	- **John von Neumann**
+	-
