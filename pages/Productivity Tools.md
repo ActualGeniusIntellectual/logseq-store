@@ -13,4 +13,6 @@
 		- GUI
 			- Lapce
 			- VScode
-	-
+	- Shells
+		- Fish
+		-
