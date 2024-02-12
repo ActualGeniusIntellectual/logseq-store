@@ -21,4 +21,5 @@
 	- **Paul Dirac**
 - "God does not care about our mathematical difficulties. He integrates empirically."
 	- **Albert Einstein**
-- "Everyone knows what a curve is, until he has studied enough mathematics to become confused through the countless number of possible exceptions." ~ Felix Klein
+- "Everyone knows what a curve is, until he has studied enough mathematics to become confused through the countless number of possible exceptions."
+	- **Felix Klein**
