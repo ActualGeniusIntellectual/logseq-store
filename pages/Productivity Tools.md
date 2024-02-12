@@ -1,2 +1,2 @@
 - **Introduction**
-	- I am cheap and don't want to pay for software. As a long
+	- I am cheap and don't want to pay for software. As a life-long (cyber-)pirate
