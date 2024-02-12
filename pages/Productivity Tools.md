@@ -4,6 +4,6 @@
 	- The goal is to replace paid and proprietary tools. They are the work of Lucifer himself.
 - Nature of Tools
 	- The tools run the gambit from todo cli tools Like Task Warrior to heavy web archival tools like ArchiveBox.
-	- F
+	- For the list, first I will create the different categories is fitting for the software tools. Then I will
 - **Tools**
 	-
