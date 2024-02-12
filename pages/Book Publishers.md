@@ -2,5 +2,5 @@
 	- **[Prince University Press](https://press.princeton.edu/)**
 	- [**Cambridge University Press**](https://www.cambridge.org/)
 	- [**Harvard University Press**](https://www.hup.harvard.edu/)
-	- []**The University of Chicago Press**
+	- [**The University of Chicago Press**]()
 	  id:: 65ca7fb7-9b73-4dcd-b944-de50f2261cf3
