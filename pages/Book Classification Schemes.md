@@ -1,3 +1,3 @@
 - Schemes
-	- [[Dewey Decimal System]]
+	- [[Dewey Decimal System]] DDS
 	-
