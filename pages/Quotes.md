@@ -1,4 +1,5 @@
 - Introduction
 	- I love quotes!
 	- What follows is more or less a structured list of quotes.
-	- I will try to keep them organized by person making them
+	- I will try to keep them organized by person making them and subject
+-
