@@ -12,6 +12,9 @@
 			- History
 			- [[Philosophy]]
 			- Branches
-			- Schools of Thoughts
+			- [[Schools of Thought]]
 		- Sources
-			-
+			- Typology
+				- Digital
+				- Expository
+				-
