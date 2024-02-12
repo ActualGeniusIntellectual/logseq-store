@@ -8,4 +8,6 @@
 				- History
 				- Philosophy
 				- Branches
+				- Schools of Thoughts
 			- Opinions
+				-
