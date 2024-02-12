@@ -12,4 +12,4 @@
 			- Vim
 		- GUI
 			- Lapce
-			- VSco
+			- VScode
