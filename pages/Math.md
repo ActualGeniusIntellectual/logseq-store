@@ -1,4 +1,4 @@
-- $\int_{-\infty}^{\infty}\frac{1}{\sqrt{4\pi t}}e^{-\frac{x^2}{4t}}\,dx$
+- $\int_{-\infty}^{\infty}\frac{f\left(x\right)}{\sqrt{4\pi t}}e^{-\frac{x^2}{4t}}\,dx$
 - **Introduction**
 	- [[Math]] is a fundamental subject. It is very difficult to begin describing what it is! It was be easier to say what it isn't. Just about every scientific discipline that matures eventually reaches for mathematical tools.
 - **Summary**
