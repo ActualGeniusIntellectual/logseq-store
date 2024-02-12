@@ -1,2 +1,3 @@
 - **Introduction**
-	- I am cheap and don't want to pay for software. As a life-long (cyber-)pirate
+	- I am cheap and don't want to pay for software. As a life-long (cyber-)pirate, I refuse to pay for bytes.
+	-
