@@ -8,4 +8,4 @@
 	- [**MIT Press**](https://mitpress.mit.edu/)
 	- [**Oxford University Press**](https://global.oup.com/)
 	- [**Stanford University Press**](https://www.sup.org/)
-	- [**University of California Press**]
+	- [**University of California Press**](https://www.ucpress.edu/)
