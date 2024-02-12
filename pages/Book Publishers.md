@@ -9,4 +9,5 @@
 	- [**Oxford University Press**](https://global.oup.com/)
 	- [**Stanford University Press**](https://www.sup.org/)
 	- [**University of California Press**](https://www.ucpress.edu/)
-	- [**Yale University Press**]
+	- [**Yale University Press**](https://yalebooks.yale.edu/)
+	-
