@@ -2,4 +2,4 @@
 - **Introduction**
 	- I have an unabiding and romantic love of (non-fiction) books.
 	- Besides being an avid reader as can be evinced from my [Goodreads](https://www.goodreads.com/user/show/173043304-actual-intellectual), I also believe that a daily regiment of reading contributes to a more well rounded intelligence.
-	- There is a lot of ancestral knowledge locked up in books that sadly most of huam
+	- There is a lot of ancestral knowledge locked up in books that sadly most of humanity will never avail itself to.
