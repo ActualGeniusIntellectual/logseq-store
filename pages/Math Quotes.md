@@ -7,3 +7,4 @@
 	- **Georg Cantor**
 - "I tell them that if they will occupy themselves with the study of mathematics they will find in it the best remedy against the lusts of the flesh."
 	- **Thomas Mann**
+- "The only way to learn mathematics is to do mathematics." ~ Paul Halmos
