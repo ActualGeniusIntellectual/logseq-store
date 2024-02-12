@@ -15,4 +15,4 @@
 	- **Paul Erdos**
 - "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."
 	- **John von Neumann**
--
+- "It's not that I'm so smart, it's just that I stay with problems longer." ~ Albert Einstein
