@@ -6,4 +6,4 @@
 - "In mathematics, the art of asking questions is more valuable than solving problems."
 	- **Georg Cantor**
 - "I tell them that if they will occupy themselves with the study of mathematics they will find in it the best remedy against the lusts of the flesh."
-	- Thomas Mann
+	- **Thomas Mann**
