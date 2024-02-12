@@ -3,3 +3,4 @@
 	- [[Library of Congress Classification]] (LCC)
 	- [[Universal Decimal Classification]] (UDC)
 	- [[Colon Classification]]
+	- [[Superintendent of Documents Classification System]]
