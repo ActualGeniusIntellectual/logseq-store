@@ -15,4 +15,4 @@
 				- What a successful school of thought of math should say
 				- My school of thought
 		- Sources
-		-
+			-
