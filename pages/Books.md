@@ -7,4 +7,4 @@
 	- My goal is to read as many books as I can.
 	- Most of my reading burden is felt in history. I love history.
 	- My goal is to build a mental model of everything present in the world and I will do that by reading as many books I can before I die.
-	- When I was younger, I dreamed
+	- When I was younger, I dreamed about reading books in your sleep or
