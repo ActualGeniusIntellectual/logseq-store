@@ -11,4 +11,5 @@
 			- Helix
 			- Vim
 		- GUI
-			-
+			- Lapce
+			- VSco
