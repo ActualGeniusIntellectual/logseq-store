@@ -12,4 +12,5 @@
 	- Here is a bunch of different typologies, categories, books, series, etc. about books I enjoy.
 	- [[Book Series]]
 	- [[Book Categories]]
-	-
+	- [[Book Publishers]]
+	- B
