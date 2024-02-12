@@ -4,4 +4,4 @@
 	- Besides being an avid reader as can be evinced from my [Goodreads](https://www.goodreads.com/user/show/173043304-actual-intellectual), I also believe that a daily regiment of reading contributes to a more well rounded intelligence.
 	- There is a lot of ancestral knowledge locked up in books that sadly most of humanity will never avail itself to.
 - **Praxis**
-	-
+	- My goal is to read as many books as I can
