@@ -9,5 +9,5 @@
 	- My goal is to build a mental model of everything present in the world and I will do that by reading as many books I can before I die.
 	- When I was younger, I dreamed about reading books in your sleep or fast-forwarding books into your brain somehow.
 - Books Proper
-	- Here is a bunch of different typologies, categories, books, series, etc.
+	- Here is a bunch of different typologies, categories, books, series, etc. about books
 	- Book Series
