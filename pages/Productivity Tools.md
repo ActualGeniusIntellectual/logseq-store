@@ -9,5 +9,6 @@
 	- Text Editors
 		- Cli
 			- Helix
+			- Vim
 		- GUI
 			-
