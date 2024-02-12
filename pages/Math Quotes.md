@@ -11,4 +11,5 @@
 	- **Paul Halmos**
 - "The highest form of pure thought is in mathematics."
 	- **[[Plato]]**
--
+- "A mathematician is a device for turning coffee into theorems."
+	- **Paul Erdos**
