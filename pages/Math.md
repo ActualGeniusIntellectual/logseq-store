@@ -41,7 +41,7 @@
 						- Spaces
 						- People
 - **References**
-	- Notes
+	- **Notes**
 		- ```javascript
 		  Basic Math Symbols ≠ ± ∓ ÷ × ∙ – √ ‰ ⊗ ⊕ ⊖ ⊘ ⊙ ≤ ≥ ≦ ≧ ≨ ≩ ≺ ≻ ≼ ≽ ⊏ ⊐ ⊑ ⊒ ² ³ ° 
 		  Geometry Symbols ∠ ∟ ° ≅ ~ ‖ ⟂ ⫛ 
