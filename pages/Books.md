@@ -13,3 +13,4 @@
 	- {{embed [[Book Series]]}}
 	- {{embed [[Book Publishers]]}}
 	- [[Book Classification Schemes]]
+	- [[Book Categories]]
