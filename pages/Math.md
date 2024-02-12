@@ -16,5 +16,6 @@
 		- Sources
 			- Typology
 				- Digital
-				- Expository
-				-
+				- Expository/Encyclopedia
+				- Textbooks
+				- Papers and Monographs
