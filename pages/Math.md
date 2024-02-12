@@ -4,7 +4,7 @@
 - **Summary**
 	- This page will be an assortment of different resources. I would like to provide a comprehensive testament of what my working knowledge of mathematics is. I want this to be the last-stop shop for any math based research.
 	- With that in mind, the different sections in this page are as follows.
-		-
+		- [[Math Quotes]]
 		- Opinions
 			- What Math is
 			- What Math should be
