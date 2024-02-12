@@ -1,5 +1,5 @@
 - **I love books**
 - **Introduction**
 	- I have an unabiding and romantic love of (non-fiction) books.
-	- Besides being an avid reader as can be evinced from my [Goodreads](https://www.goodreads.com/user/show/173043304-actual-intellectual), I also believe that
+	- Besides being an avid reader as can be evinced from my [Goodreads](https://www.goodreads.com/user/show/173043304-actual-intellectual), I also believe that a daily regiment of reading contributes to a more well rounded intelligence.
 	-
