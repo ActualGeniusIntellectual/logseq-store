@@ -1,5 +1,5 @@
--
-- **[Prince University Press](https://press.princeton.edu/)**
-- [**Cambridge University Press**](https://www.cambridge.org/)
-- [**Harvard University Press**](https://www.hup.harvard.edu/)
+- **University Presses**
+	- **[Prince University Press](https://press.princeton.edu/)**
+	- [**Cambridge University Press**](https://www.cambridge.org/)
+	- [**Harvard University Press**](https://www.hup.harvard.edu/)
 -
