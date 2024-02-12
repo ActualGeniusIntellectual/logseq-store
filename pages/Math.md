@@ -3,16 +3,15 @@
 - **Summary**
 	- This page will be an assortment of different resources. I would like to provide a comprehensive testament of what my working knowledge of mathematics is. I want this to be the last-stop shop for any math based research.
 	- With that in mind, the different sections in this page are as follows.
-		- Content
-			- Exposition
-				- History
-				- Philosophy
-				- Branches
-				- Schools of Thoughts
-			- Opinions
-				- What Math is
-				- What Math should be
-				- What a successful school of thought of math should say
-				- My school of thought
+		- Opinions
+			- What Math is
+			- What Math should be
+			- What a successful school of thought of math should say
+			- My school of thought
+		- Exposition
+			- History
+			- Philosophy
+			- Branches
+			- Schools of Thoughts
 		- Sources
 			-
