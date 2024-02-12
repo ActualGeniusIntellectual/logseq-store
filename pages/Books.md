@@ -5,4 +5,5 @@
 	- There is a lot of ancestral knowledge locked up in books that sadly most of humanity will never avail itself to.
 - **Praxis**
 	- My goal is to read as many books as I can.
-	- Most of my reading burden is felt in history
+	- Most of my reading burden is felt in history. I love history.
+	-
