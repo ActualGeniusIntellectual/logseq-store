@@ -1,2 +1,2 @@
-- "Mathematics is the language with which God has written the universe." #Quotes
+- "Mathematics is the language with which God has written the universe." #Quotes #Math
 	- **Galileo Galilei**
