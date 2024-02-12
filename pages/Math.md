@@ -16,7 +16,8 @@
 			- [[Schools of Thought]]
 		- Sources
 			- Typology
+				- Textual
 				- Digital
-				- Expository/Encyclopedia
-				- Textbooks
-				- Papers and Monographs
+					- Expository/Encyclopedia
+					- Textbooks
+					- Papers and Monographs
