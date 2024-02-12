@@ -7,4 +7,5 @@
 	- [**Columbia University Press**](https://cup.columbia.edu/)
 	- [**MIT Press**](https://mitpress.mit.edu/)
 	- [**Oxford University Press**](https://global.oup.com/)
-	- Stanford University Press
+	- [**Stanford University Press**](https://www.sup.org/)
+	-
