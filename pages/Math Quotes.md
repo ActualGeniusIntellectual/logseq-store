@@ -19,4 +19,6 @@
 	- **Albert Einstein**
 - "God used beautiful mathematics in creating the world."
 	- **Paul Dirac**
-- "God does not care about our mathematical difficulties. He integrates empirically." ~ Albert Einstein
+- "God does not care about our mathematical difficulties. He integrates empirically."
+	- **Albert Einstein**
+	-
