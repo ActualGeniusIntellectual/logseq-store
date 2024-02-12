@@ -23,6 +23,9 @@
 					- Journals
 					- Conferences
 					- Lectures
+					- College Department
+					- Research Outfits
+					- Individual Mathematician programs
 				- Expository/Encyclopedia
 				- Social
 					- Forums
