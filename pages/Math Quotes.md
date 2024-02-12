@@ -2,4 +2,4 @@
 	- **Galileo Galilei**
 	- #Quotes #Math
 - "Where there is matter, there is geometry."
-	- Johannes Kepler
+	- **Johannes Kepler**
