@@ -12,4 +12,7 @@
 			- Opinions
 				- What Math is
 				- What Math should be
-				- A successful school of thought
+				- What a successful school of thought of math should say
+				- My school of thought
+		- Sources
+		-
