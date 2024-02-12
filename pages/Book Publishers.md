@@ -1,2 +1,2 @@
-- [Prince University Press](https://press.princeton.edu/)
+- **[Prince University Press](https://press.princeton.edu/)**
 -
