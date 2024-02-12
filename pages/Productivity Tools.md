@@ -1,2 +1,2 @@
 - **Introduction**
-	- I am cheap and
+	- I am cheap and don't want to pay for soft
