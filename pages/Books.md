@@ -1,3 +1,3 @@
 - **I love books**
 - **Introduction**
-	- I have an unabiding and romant
+	- I have an unabiding and romantic love of books
