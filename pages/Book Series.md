@@ -1,2 +1,3 @@
 - ** [[History]] **
-	- Princeton U
+	- [[Princeton University]]
+		-
