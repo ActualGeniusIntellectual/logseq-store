@@ -5,3 +5,4 @@
 	- [[Colon Classification]]
 	- [[Superintendent of Documents Classification System]]
 	- [[National Library of Medicine Classification]] (NLM)
+	- [[Bliss Bibliographic Classification]]
