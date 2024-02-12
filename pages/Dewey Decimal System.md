@@ -1,0 +1,10 @@
+- **000 – Computer Science, Information & General Works:** This includes works on computers, encyclopedias, journals, and general interdisciplinary collections.
+- **100 – Philosophy & Psychology:** Books on philosophy, psychology, and related disciplines are categorized here.
+- **200 – Religion:** This class covers all major religions and belief systems, including the Bible, theology, and religious mythology.
+- **300 – Social Sciences:** It includes economics, law, education, sociology, and government.
+- **400 – Language:** Linguistics and specific languages fall under this category.
+- **500 – Science:** Books on natural sciences and mathematics are classified here.
+- **600 – Technology:** This class is for applied sciences and technology, including medical sciences, engineering, and agriculture.
+- **700 – Arts & Recreation:** It covers the arts, sports, and recreation, including music, painting, and photography.
+- **800 – Literature:** This class is dedicated to literary works, such as poetry, drama, fiction, and essays.
+- **900 – History & Geography:** Books on history, biography, geography, and travel are found here.
