@@ -3,39 +3,40 @@
 	- [[Math]] is a fundamental subject. It is very difficult to begin describing what it is! It was be easier to say what it isn't. Just about every scientific discipline that matures eventually reaches for mathematical tools.
 - **Summary**
 	- This page will be an assortment of different resources. I would like to provide a comprehensive testament of what my working knowledge of mathematics is. I want this to be the last-stop shop for any math based research.
+- Outline
 	- With that in mind, the different sections in this page are as follows.
-		- [[Math Quotes]]
-		- [[Pedagogy]]
-		- Opinions
-			- What Math is
-			- What Math should be
-			- What a successful school of thought of math should say
-			- My school of thought
-		- Exposition
-			- History
-			- [[Philosophy]]
-			- Branches
-			- [[Schools of Thought]]
-		- Sources
-			- Typology
-				- Authoritative
-					- Textual
-						- Textbooks
-						- Papers
-						- Monographs
-						- Journals
-					- Lectoral
-						- Conferences
-						- Lectures
-						- College Department
-						- Research Outfits
-						- Individual Mathematician Programs
-					- Schools of Thought Programs
-				- Expository/Encyclopedia
-				- Social
-					- Forums
-					- Ask/Answer
-					- Conversational
-						- Twitter
-							- Spaces
-							- People
+	- [[Math Quotes]]
+	- [[Pedagogy]]
+	- Opinions
+		- What Math is
+		- What Math should be
+		- What a successful school of thought of math should say
+		- My school of thought
+	- Exposition
+		- History
+		- [[Philosophy]]
+		- Branches
+		- [[Schools of Thought]]
+	- Sources
+		- Typology
+			- Authoritative
+				- Textual
+					- Textbooks
+					- Papers
+					- Monographs
+					- Journals
+				- Lectoral
+					- Conferences
+					- Lectures
+					- College Department
+					- Research Outfits
+					- Individual Mathematician Programs
+				- Schools of Thought Programs
+			- Expository/Encyclopedia
+			- Social
+				- Forums
+				- Ask/Answer
+				- Conversational
+					- Twitter
+						- Spaces
+						- People
