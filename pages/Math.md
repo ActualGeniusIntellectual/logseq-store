@@ -10,7 +10,7 @@
 			- My school of thought
 		- Exposition
 			- History
-			- Philosophy
+			- [[Philosophy]]
 			- Branches
 			- Schools of Thoughts
 		- Sources
