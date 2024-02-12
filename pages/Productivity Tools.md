@@ -8,4 +8,6 @@
 - **Tools**
 	- Text Editors
 		- Cli
-		-
+			- Helix
+		- GUI
+			-
