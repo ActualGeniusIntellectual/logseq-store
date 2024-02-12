@@ -6,4 +6,6 @@
 	- The tools run the gambit from todo cli tools Like Task Warrior to heavy web archival tools like ArchiveBox.
 	- For the list, first I will create the different categories is fitting for the software tools. Then I will
 - **Tools**
-	-
+	- Text Editors
+		- Cli
+		-
