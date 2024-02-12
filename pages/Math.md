@@ -42,5 +42,5 @@
 						- People
 - **References**
 	- Notes
-		- {{embed (())}}
+		-
 		-
