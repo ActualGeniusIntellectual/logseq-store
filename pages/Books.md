@@ -11,6 +11,5 @@
 - Books Proper
 	- Here is a bunch of different typologies, categories, books, series, etc. about books I enjoy.
 	- {{embed [[Book Series]]}}
-	- [[Book Categories]]
 	- {{embed [[Book Publishers]]}}
 	- [[Book Classification Schemes]]
