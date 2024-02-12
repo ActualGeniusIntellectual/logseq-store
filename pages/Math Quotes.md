@@ -3,4 +3,5 @@
 	- **Galileo Galilei**
 - "Where there is matter, there is geometry."
 	- **Johannes Kepler**
--
+- "In mathematics, the art of asking questions is more valuable than solving problems."
+	- Georg Cantor
