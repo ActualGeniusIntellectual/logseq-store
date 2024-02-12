@@ -6,4 +6,5 @@
 - **Praxis**
 	- My goal is to read as many books as I can.
 	- Most of my reading burden is felt in history. I love history.
-	- My goal is to build a mental model of everything present in the world
+	- My goal is to build a mental model of everything present in the world and I will do that by reading as many books I can before I die.
+	-
