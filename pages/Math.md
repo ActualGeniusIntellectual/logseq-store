@@ -16,8 +16,14 @@
 			- [[Schools of Thought]]
 		- Sources
 			- Typology
-				- Authoritative Textual
+				- Authoritative
 					- Textbooks
-					- Papers and Monographs
+					- Papers
+					- Monographs
+					- Journals
+					- Conferences
+					- Lectures
 				- Expository/Encyclopedia
-				- Forums
+				- Social
+					- Forums
+					- Ask/Answer
