@@ -10,4 +10,6 @@
 				- Branches
 				- Schools of Thoughts
 			- Opinions
-				-
+				- What Math is
+				- What Math should be
+				- A successful school of thought
