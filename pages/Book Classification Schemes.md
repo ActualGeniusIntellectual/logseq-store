@@ -2,3 +2,4 @@
 	- [[Dewey Decimal System]] (DDS)
 	- [[Library of Congress Classification]] (LCC)
 	- [[Universal Decimal Classification]] (UDC)
+	- [[Colon Classification]]
