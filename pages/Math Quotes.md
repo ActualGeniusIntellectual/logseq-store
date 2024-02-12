@@ -10,4 +10,4 @@
 - "The only way to learn mathematics is to do mathematics."
 	- **Paul Halmos**
 - "The highest form of pure thought is in mathematics."
-	- Plato
+	- **[[Plato]]**
