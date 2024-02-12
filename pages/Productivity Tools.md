@@ -1,4 +1,5 @@
 - **Introduction**
 	- I am cheap and don't want to pay for software. As a life-long (cyber-)pirate, I refuse to pay for bytes.
 	- Because of that, I have aggregated a formidable assemblage of open source and free tools to use.
-	- The goal is to replace paid and proprietary tools. They are the work of Lucifer himself
+	- The goal is to replace paid and proprietary tools. They are the work of Lucifer himself.
+-
