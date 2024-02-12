@@ -10,4 +10,4 @@
 	- When I was younger, I dreamed about reading books in your sleep or fast-forwarding books into your brain somehow.
 - Books Proper
 	- Here is a bunch of different typologies, categories, books, series, etc. about books I enjoy.
-	-
+	- [[Book Series]]
