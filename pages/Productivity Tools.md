@@ -3,4 +3,4 @@
 	- Because of that, I have aggregated a formidable assemblage of open source and free tools to use.
 	- The goal is to replace paid and proprietary tools. They are the work of Lucifer himself.
 - Nature of Tools
-	- The tools run the gambit from todo cli tools to
+	- The tools run the gambit from todo cli tools to heavy archival
