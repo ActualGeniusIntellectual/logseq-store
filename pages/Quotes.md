@@ -1,4 +1,4 @@
 - Introduction
-	- I love quotes
+	- I love quotes!
 	- What follows is more or less a structured list of quotes.
 	-
