@@ -1,4 +1,4 @@
 - **I love books**
 - **Introduction**
 	- I have an unabiding and romantic love of (non-fiction) books.
-	- Besides being an avid reader
+	- Besides being an avid reader as can be
