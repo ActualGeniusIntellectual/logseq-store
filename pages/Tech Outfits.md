@@ -13,4 +13,4 @@
 		- [Clockwork Labs](https://clockworklabs.io/)
 	- [[Rust]]
 		- [Ferrous Systems](https://ferrous-systems.com/)
-			- __We provide consulting and made-to-measure solutions based on our expertise in Rust programming. Let us help give your business a boost by making your systems faster and more reliable.__
+			- We provide consulting and made-to-measure solutions based on our expertise in Rust programming. Let us help give your business a boost by making your systems faster and more reliable.
