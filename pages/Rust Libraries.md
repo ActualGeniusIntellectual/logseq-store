@@ -2,4 +2,5 @@
 	- Here is a list of libraries to use by category
 - Libraries
 	- **Argument Parsing**
-		- clap-rs12
+		- [clap-rs](https://github.com/clap-rs/clap)
+		-
