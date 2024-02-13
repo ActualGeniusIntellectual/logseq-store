@@ -2,4 +2,4 @@
 	- **Terminals**
 		- [alacritty](https://github.com/alacritty/alacritty)
 			- A cross-platform, GPU enhanced terminal emulator
-	-
+	- Language
