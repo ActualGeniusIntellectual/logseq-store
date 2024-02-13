@@ -6,6 +6,7 @@
 			- [**tyler neely**](https://tylerneely.com/)
 		- [[Rust]]
 			- [Writing at Ferrous Systems](https://ferrous-systems.com/blog/)
+			-
 		- **Visualization**
 			- [Rerun IO](https://www.rerun.io/blog)
 			-
