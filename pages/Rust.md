@@ -5,4 +5,4 @@
 		- [Embedded Trainings 2020](https://github.com/ferrous-systems/embedded-trainings-2020)
 	- **Web (md)books**
 		-
--
+- [[Rust Libraries]]
