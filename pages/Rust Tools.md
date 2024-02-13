@@ -3,4 +3,4 @@
 		- [alacritty](https://github.com/alacritty/alacritty)
 			- A cross-platform, GPU enhanced terminal emulator
 	- **Runtime**
-		- Deno
+		- [Deno]https://github.com/denoland/deno
