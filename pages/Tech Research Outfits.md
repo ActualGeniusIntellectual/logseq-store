@@ -4,4 +4,4 @@
 		- Researching,
 		- Building,
 - Outfits
-	-
+	- Visual
