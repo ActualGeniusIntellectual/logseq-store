@@ -4,5 +4,5 @@
 		- Researching,
 		- Building,
 - Outfits
-	- Visualization
+	- **Visualization**
 		-
