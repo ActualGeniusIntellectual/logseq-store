@@ -2,7 +2,8 @@
 	- List of blogs that can teach me something new that I didn't know
 - Blogs
 	- Computer Science
-		- [**tyler neely**](https://tylerneely.com/)
+		- Distributed Systems
+			- [**tyler neely**](https://tylerneely.com/)
 		- [[Rust]]
 			-
 			-
