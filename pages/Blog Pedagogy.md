@@ -8,4 +8,4 @@
 			-
 			-
 		- **Visualization**
-			- https://www.rerun.io/blog
+			- [Rerun IO](https://www.rerun.io/blog)
