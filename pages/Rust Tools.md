@@ -1,3 +1,3 @@
 - Tools
 	- **Terminals**
-		- alacrittyhttps://github.com/alacritty/alacritty
+		- [alacritty](https://github.com/alacritty/alacritty)
