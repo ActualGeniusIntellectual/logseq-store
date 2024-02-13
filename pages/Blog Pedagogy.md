@@ -10,5 +10,5 @@
 		- **Visualization**
 			- [Rerun IO](https://www.rerun.io/blog)
 	- **Video Games**
-		- https://clockwork-labs.medium.com/
+		- Clockwork Labs Bloghttps://clockwork-labs.medium.com/
 		-
