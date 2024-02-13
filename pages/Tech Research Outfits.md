@@ -6,4 +6,4 @@
 - Outfits
 	- **Visualization**
 		- [Rerun-io](https://www.rerun.io/)
-			-
+			- Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.
