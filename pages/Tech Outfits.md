@@ -12,4 +12,4 @@
 	- **Database**
 		- [Clockwork Labs](https://clockworklabs.io/)
 	- [[Rust]]
-		- https://ferrous-systems.com/
+		- [Ferrous Systems](https://ferrous-systems.com/)
