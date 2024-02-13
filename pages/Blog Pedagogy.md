@@ -3,4 +3,5 @@
 - Blogs
 	- Computer Science
 		- [**tyler neely**](https://tylerneely.com/)
-		- Rust
+		- [[Rust]]
+			- Elemhttps://github.com/ferrous-systems/elements-of-rust
