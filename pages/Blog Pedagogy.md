@@ -1,3 +1,4 @@
 - Introduction
 	- List of blogs that can teach me something new that I didn't know
+- Blogs
 	-
