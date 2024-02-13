@@ -5,7 +5,7 @@
 		- Distributed Systems
 			- [**tyler neely**](https://tylerneely.com/)
 		- [[Rust]]
-			- https://ferrous-systems.com/blog/
+			- Writing at Ferrous Systemshttps://ferrous-systems.com/blog/
 		- **Visualization**
 			- [Rerun IO](https://www.rerun.io/blog)
 			-
