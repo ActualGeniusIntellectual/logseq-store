@@ -4,6 +4,5 @@
 	- Computer Science
 		- [**tyler neely**](https://tylerneely.com/)
 		- [[Rust]]
-			- Fe
-			- [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
+			-
 			-
