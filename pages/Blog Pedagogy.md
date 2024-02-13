@@ -2,4 +2,5 @@
 	- List of blogs that can teach me something new that I didn't know
 - Blogs
 	- Computer Science
-		- []https://tylerneely.com/
+		- [**tyler neely**](https://tylerneely.com/)
+		-
