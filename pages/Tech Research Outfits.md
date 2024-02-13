@@ -3,4 +3,5 @@
 		- Experimenting,
 		- Researching,
 		- Building,
+- Outfits
 	-
