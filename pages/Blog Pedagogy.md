@@ -3,4 +3,4 @@
 - Blogs
 	- Computer Science
 		- [**tyler neely**](https://tylerneely.com/)
-		-
+		- Rust
