@@ -1,3 +1,4 @@
 - **Educational**
 	- **Ferrous Systems**
+		- [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
 		-
