@@ -1,2 +1,2 @@
 - Introduction
-	- List of
+	- List of blogs that
